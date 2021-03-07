@@ -5,7 +5,7 @@
 * `$ python3 hw1.py`
 
 (3) Result
-
+* 
 station_id | mean_presure
 -----------|:-----------:|
 C0A880     | 1016.7291666666666
