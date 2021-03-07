@@ -3,3 +3,9 @@
 
 (2) Go to the working directory in a terminal.
 * `$ python3 hw1.py`
+
+(3) Result
+
+station_id | mean_presure
+-----------|:-----------:|
+afjeoajfe  | ajefijaef
