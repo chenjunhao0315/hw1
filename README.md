@@ -1,5 +1,10 @@
-1. Download this file using
-* `$ git clone https://github.com/chenjunhao0315/hw1.git`
+1. Setup and run program
+  1. Using git clone to get the code
+  * `$ git clone https://github.com/chenjunhao0315/hw1.git`
+  2. Go to the working directory in a terminal.
+  * `$ python3 hw1.py`
+3. 
+`$ git clone https://github.com/chenjunhao0315/hw1.git`
 
 2. Go to the working directory in a terminal.
 * `$ python3 hw1.py`
